@@ -9,6 +9,7 @@
 
 char SERVER_IP[20];
 
+/////////////////////
 //使用TCP协议进行传输
 void TCP_CLIENT() {
 	WORD wVersionRequested;
